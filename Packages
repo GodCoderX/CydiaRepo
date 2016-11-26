@@ -1,0 +1,105 @@
+Package: com.godcoderx.blitzmodder
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: GodCoderX <godcoderx@gmail.com>
+Installed-Size: 1228
+Depends: coreutils-bin,unzip
+Breaks: org.coolstar.stash933
+Filename: ./com.godcoderx.blitzmodder_2.2_iphoneos-arm.deb
+Size: 376548
+MD5sum: b67595022c5dd105de38e75c066681c5
+SHA1: 88a2eaa3335f610c632822c4fe4b3d3a2db83fe6
+SHA256: 0b12fdc9523a514b13bfea3dc0c3c06ca0eb31e8a4c0315f793a0822542ca2dd
+Section: Utilities
+Homepage: http://godcoderx.com
+Description: Mod Manager for World of Tanks Blitz
+Tag: purpose::extension
+Author: GodCoderX <godcoderx@gmail.com>
+Depiction: Mod Manager for Blitz
+Icon: file:///Users/yuta/THEOS/blitzmodder/CydiaIcon.png
+Name: Blitz Modder 2
+
+Package: com.godcoderx.blitzmodder
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: GodCoderX <godcoderx@gmail.com>
+Installed-Size: 1228
+Depends: coreutils-bin,unzip
+Breaks: org.coolstar.stash933
+Filename: ./com.godcoderx.blitzmodder_2.2.1_iphoneos-arm.deb
+Size: 376418
+MD5sum: e5ede95a782740571712b6270c17314e
+SHA1: f934bd83878201487066dddae990cf0da383dc44
+SHA256: fcc316d7866d3c97f67f85e2853d2640a8bc21d61983b9649d03c9bf70b55b22
+Section: Utilities
+Homepage: http://godcoderx.com
+Description: Mod Manager for World of Tanks Blitz
+Tag: purpose::extension
+Author: GodCoderX <godcoderx@gmail.com>
+Depiction: Mod Manager for Blitz
+Icon: file:///Users/yuta/THEOS/blitzmodder/CydiaIcon.png
+Name: Blitz Modder 2
+
+Package: com.godcoderx.blitzmodder
+Version: 2.2.2
+Architecture: iphoneos-arm
+Maintainer: GodCoderX <godcoderx@gmail.com>
+Installed-Size: 1228
+Depends: coreutils-bin,unzip
+Breaks: org.coolstar.stash933
+Filename: ./com.godcoderx.blitzmodder_2.2.2_iphoneos-arm.deb
+Size: 376328
+MD5sum: 147dd205009d65d50124dbc956b2be89
+SHA1: 54f7fba17787477e629970366e83e1565a12d61d
+SHA256: 2e8a0bc8a95048872a4afd0c977dd6b6da05229777444a5360e0cf89cc8bc17c
+Section: Utilities
+Homepage: http://godcoderx.com
+Description: Mod Manager for World of Tanks Blitz
+Tag: purpose::extension
+Author: GodCoderX <godcoderx@gmail.com>
+Depiction: Mod Manager for Blitz
+Icon: file:///Users/yuta/THEOS/blitzmodder/CydiaIcon.png
+Name: Blitz Modder 2
+
+Package: com.godcoderx.blitzmodder
+Version: 2.2.3
+Architecture: iphoneos-arm
+Maintainer: GodCoderX <godcoderx@gmail.com>
+Installed-Size: 1228
+Depends: coreutils-bin,unzip
+Breaks: org.coolstar.stash933
+Filename: ./com.godcoderx.blitzmodder_2.2.3_iphoneos-arm.deb
+Size: 376454
+MD5sum: 412145bffe185bf487b0075eb1b94369
+SHA1: ac2181fd6e0aed7b75d592ce4b152c65e7723a4c
+SHA256: c555ac1420e7f8d5af73e04a2a7c3f17aaa69c480c2da138533fe6e2c525c7aa
+Section: Utilities
+Homepage: http://godcoderx.com
+Description: Mod Manager for World of Tanks Blitz
+Tag: purpose::extension
+Author: GodCoderX <godcoderx@gmail.com>
+Depiction: Mod Manager for Blitz
+Icon: file:///Users/yuta/THEOS/blitzmodder/CydiaIcon.png
+Name: Blitz Modder 2
+
+Package: com.godcoderx.blitzmodder
+Version: 2.2.4
+Architecture: iphoneos-arm
+Maintainer: GodCoderX <godcoderx@gmail.com>
+Installed-Size: 1228
+Depends: coreutils-bin,unzip
+Breaks: org.coolstar.stash933
+Filename: ./com.godcoderx.blitzmodder_2.2.4_iphoneos-arm.deb
+Size: 376054
+MD5sum: bad5827b8feeda5776396aee0c86bfbd
+SHA1: 61382a1f369c036fbd93c1373de846477e3226bf
+SHA256: cfe9fd6ab7d6344e4dd67b79de385ac54d218b3fe2998e3226cf77a3aad68067
+Section: Utilities
+Homepage: http://godcoderx.com
+Description: Mod Manager for World of Tanks Blitz
+Tag: purpose::extension
+Author: GodCoderX <godcoderx@gmail.com>
+Depiction: Mod Manager for Blitz
+Icon: file:///Users/yuta/THEOS/blitzmodder/CydiaIcon.png
+Name: Blitz Modder 2
+
